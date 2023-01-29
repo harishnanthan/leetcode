@@ -1,7 +1,7 @@
 /**
  * combination:
  * a collection of things where the order does not matter.
- * given the set of n things, there are 2n possible combinations
+ * given the set of n things, there are 2^n possible combinations
  *
  * @param {number[]} elements 
  * @returns {number[ [] ]}
